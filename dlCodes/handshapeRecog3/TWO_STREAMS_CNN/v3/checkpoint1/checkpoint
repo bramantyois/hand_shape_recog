@@ -1,0 +1,2 @@
+model_checkpoint_path: "TWO_STREAM_MODEL_V3"
+all_model_checkpoint_paths: "TWO_STREAM_MODEL_V3"

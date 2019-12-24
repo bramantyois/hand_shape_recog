@@ -1,0 +1,12 @@
+#pragma once
+
+#define MAHAL_DISTANCE 4.5
+
+#define RESULT_IMAGE_WIDTH 320
+#define RESULT_IMAGE_HEIGHT 240
+
+#define DILATION_RADIUS 7
+#define EROSION_RADIUS 7
+
+
+
